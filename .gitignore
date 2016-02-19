@@ -14,7 +14,7 @@
 
 # Ignore other unneeded files.
 database.yml
-secrets.yml
+config/secrets.yml
 doc/
 *.swp
 *~
